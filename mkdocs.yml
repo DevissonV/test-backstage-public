@@ -1,0 +1,5 @@
+site_name: Servicio Ejemplo
+nav:
+  - Inicio: docs/index.md
+plugins:
+  - techdocs-core
