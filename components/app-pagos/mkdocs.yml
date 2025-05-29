@@ -1,5 +1,5 @@
-site_name: Servicio Ejemplo
+site_name: "Documentación app-pagos"
 nav:
-  - Inicio: index.md
+  - Inicio: docs/index.md
 plugins:
   - techdocs-core
