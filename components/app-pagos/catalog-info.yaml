@@ -13,7 +13,7 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: equipo-finanzas
+  owner: equipo-desarrollo-global
   system: sistema-finanzas
   providesApis:
     - pagos-api
