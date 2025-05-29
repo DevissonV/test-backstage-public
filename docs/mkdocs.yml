@@ -1,5 +1,5 @@
 site_name: Servicio Ejemplo
 nav:
-  - Inicio: docs/index.md
+  - Inicio: index.md
 plugins:
   - techdocs-core
