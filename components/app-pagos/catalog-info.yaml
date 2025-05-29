@@ -6,7 +6,6 @@ metadata:
   tags: [java, kafka, microservicio]
   annotations:
     backstage.io/techdocs-ref: dir:.
-    backstage.io/source-location: url:https://github.com/DevissonV/test-backstage-public/blob/main/components/app-pagos/catalog-info.yaml
     github.com/project-slug: DevissonV/test-backstage-public
     company.io/pais: "Colombia"
     company.io/director: "Luis Herrera"
