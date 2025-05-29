@@ -6,7 +6,6 @@ metadata:
   tags: [java, kafka, microservicio]
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: DevissonV/test-backstage-public
     company.io/pais: "Colombia"
     company.io/director: "Luis Herrera"
     company.io/gerente: "Claudia Mendoza"
