@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app-pagos
+  description: Sistema de pagos internos
+  tags: [java, kafka, microservicio]
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    company.io/pais: "Colombia"
+    company.io/director: "Luis Herrera"
+    company.io/gerente: "Claudia Mendoza"
+    company.io/contacto: "claudia.mendoza@miempresa.com"
+spec:
+  type: service
+  lifecycle: production
+  owner: equipo-finanzas
+  system: sistema-finanzas
+  providesApis:
+    - pagos-api

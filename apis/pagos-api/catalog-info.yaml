@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: pagos-api
+  description: API interna para operaciones de pago
+spec:
+  type: openapi
+  lifecycle: production
+  owner: equipo-finanzas
+  definition: https://raw.githubusercontent.com/DevissonV/test-backstage-public/main/docs/pagos-api.yaml
