@@ -5,7 +5,7 @@ metadata:
   description: Sistema de pagos internos
   tags: [java, kafka, microservicio]
   annotations:
-    backstage.io/techdocs-ref: dir:./docs
+    backstage.io/techdocs-ref: dir:../../docs
     company.io/pais: "Colombia"
     company.io/director: "Luis Herrera"
     company.io/gerente: "Claudia Mendoza"
